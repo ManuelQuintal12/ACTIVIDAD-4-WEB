@@ -1,0 +1,31 @@
+.perfume1{
+
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 100px;
+    padding: 340px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+  }
+  .perfume2{
+    width: 300px;
+    height: 400px;
+    float: center;
+    margin: 100px;
+    padding: 340px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 30px;
+  }
+  .perfume3{
+    width: 600px;
+    height: 400px;
+    float: center;
+    margin: 200px;
+    padding: 680px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 40px;
+  }
